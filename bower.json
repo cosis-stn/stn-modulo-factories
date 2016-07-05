@@ -3,7 +3,7 @@
   "authors": [
     "Fabio dos Santos Barbosa <fabio.barbosa@gmail.com>"
   ],
-  "description": "Componente com o conjunto de servicos padronizados utilizados pela Secretaria do Tesouro Nacional para sistemas internos departamentais",
+  "description": "Componente com o conjunto de factories padronizadas utilizadas pela Secretaria do Tesouro Nacional para sistemas internos departamentais",
   "main": "factories.js",
   "version":"1.0.0",
   "moduleType": [],
