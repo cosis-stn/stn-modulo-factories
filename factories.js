@@ -8,3 +8,4 @@ angular.module('stn.modulo-factories',[])
 	.factory('logoutSvc', function($resource){ //servico para logout
 		return $resource(URL_SISTEMA +'/rest/Usuario/Sair'  );
 	})
+	
